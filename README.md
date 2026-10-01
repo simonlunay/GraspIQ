@@ -4,7 +4,7 @@
 
 [Chrome Web Store](https://chromewebstore.google.com/detail/graspiq/pmhbfohnlaeipmfpjmmnnjgjlachgjcc) · [Web App](https://grasp-iq-pi.vercel.app)
 
-![GraspIQ demo](./assets/demo.gif)
+![GraspIQ demo](demo.gif)
 <!-- Replace with a 10 to 15 second GIF: open side panel, ask a course question, generate a practice test -->
 
 > The source code is private because GraspIQ is a live product with paying users. This repo documents the architecture and engineering decisions. Happy to walk through the code in an interview.
