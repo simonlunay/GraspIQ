@@ -24,7 +24,7 @@ Works with any Instructure-hosted Canvas school, not tied to a single institutio
 
 ## Architecture
 
-![Architecture diagram](./assets/architecture.png)
+![Architecture diagram](architecture.png)
 <!-- Extension -> Next.js web app (Vercel) -> Agent service (Render) -> Claude API / pgvector / Supabase -->
 
 | Component | Stack |
