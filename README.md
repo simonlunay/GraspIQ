@@ -59,8 +59,7 @@ Works with any Instructure-hosted Canvas school, not tied to a single institutio
 
 ## Screenshots
 
-(Screenshot1.png)(Screenshot2.png)(Screenshot3.png)
-
+![GraspIQ Generate](Screenshot1.png)![GraspIQ Review and Timer](Screenshot2.png)![GraspIQ Stats](Screenshot3.png)
 ---
 
 Built solo by [Simon Lunay](https://www.simonlunay.com) · [LinkedIn](https://www.linkedin.com/in/simonlunay)
