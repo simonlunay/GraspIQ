@@ -59,7 +59,7 @@ Works with any Instructure-hosted Canvas school, not tied to a single institutio
 
 ## Screenshots
 
-<!-- Add 3 to 4: side panel chat, practice test with grading feedback, study guide, stats/streaks -->
+(Screenshot1.png)(Screenshot2.png)(Screenshot3.png)
 
 ---
 
